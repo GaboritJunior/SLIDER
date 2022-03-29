@@ -680,10 +680,8 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
     text-align: center;
-    padding: 1vh 1vw;
-    -webkit-box-flex: 1;
-        -ms-flex: 1 1 20vw;
-            flex: 1 1 20vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
   }
   .fonctionnalite .items-item__image {
     width: clamp(10vw, 12.5vw, 15vw);
